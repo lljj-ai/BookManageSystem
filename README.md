@@ -1,1 +1,9 @@
-# BookManageSystem
+# 图书管理系统
+## 多人协调开发
+## jsp+bootstrap+servlet+javaben+jdbc+mysql开发
+## 课设项目
+## 功能
+- 管理员与用户的登录
+- 借书还书的功能
+- 修改个人信息的功能
+- 管理员对用户进行crud的功能
